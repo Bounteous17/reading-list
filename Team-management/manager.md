@@ -1,0 +1,1 @@
+- https://signalvnoise.com/svn3/moonlighting-managers-aint-got-no-time-for-bullshit/

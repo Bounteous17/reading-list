@@ -1,0 +1,1 @@
+- https://world.hey.com/dhh/the-benefit-of-seniority-ought-to-be-bandwidth-ff8ee736
