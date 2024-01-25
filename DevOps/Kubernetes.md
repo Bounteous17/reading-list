@@ -1,10 +1,12 @@
-## k8s
-
-#### Setup
+## Setup
 
 - https://docs.k3s.io/quick-start
 
-#### Access
+## Docs
+
+- https://kubernetes.io/docs/concepts/workloads/
+
+## Access
 
 - https://docs.k3s.io/cluster-access
 
