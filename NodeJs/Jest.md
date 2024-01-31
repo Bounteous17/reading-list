@@ -5,3 +5,7 @@
 # Taking advantage
 
 - https://dev.to/andrewmcoupe/sit-down-at-my-jest-tagged-template-literal-table-and-tidy-up-your-tests-4f71
+
+# Multiple projects
+
+- https://jestjs.io/docs/configuration#projects-arraystring--projectconfig
