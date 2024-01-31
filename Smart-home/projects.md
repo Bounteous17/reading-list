@@ -1,0 +1,1 @@
+- https://www.androidauthority.com/offline-smart-home-3398608/
