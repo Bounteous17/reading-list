@@ -2,6 +2,10 @@
 
 - https://wiki.archlinux.org/title/Ansible
 
+#### k3s
+
+- https://github.com/k3s-io/k3s-ansible
+
 #### Kubernetes
 
 ###### RaspberryPI
