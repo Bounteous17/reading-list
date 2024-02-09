@@ -27,3 +27,14 @@
 #### Roles
 
 - https://ranchermanager.docs.rancher.com/how-to-guides/new-user-guides/kubernetes-clusters-in-rancher-setup/checklist-for-production-ready-clusters/roles-for-nodes-in-kubernetes
+
+## Storage
+
+#### Drivers
+- https://github.com/kubernetes-csi/csi-driver-nfs/blob/master/charts/README.md
+
+#### StorageClass
+- https://askcloudarchitech.com/posts/tutorials/add-nfs-shared-storage-microk8s-cluster/
+
+###### NFS
+- https://medium.com/@bastian.ohm/configuring-your-synology-nas-as-nfs-storage-for-kubernetes-cluster-5e668169e5a2
