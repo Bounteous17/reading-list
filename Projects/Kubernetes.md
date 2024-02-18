@@ -13,3 +13,6 @@
 #### ms sql
 - https://learn.microsoft.com/en-us/sql/linux/sql-server-linux-kubernetes-best-practices-statefulsets?view=sql-server-ver16
 - https://github.com/microsoft/sqlworkshops-sql2019workshop/blob/master/sql2019workshop/07_SQLOnKubernetes.md
+
+## media
+- https://docs.photoprism.app/getting-started/advanced/kubernetes/
