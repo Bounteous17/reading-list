@@ -6,3 +6,6 @@
 
 # Subnets
 - https://www.youtube.com/watch?v=vK1i1w8l-ds
+
+# VPN
+- https://www.youtube.com/watch?v=DesGuLTjGIc
