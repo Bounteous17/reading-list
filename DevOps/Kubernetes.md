@@ -38,3 +38,8 @@
 
 ###### NFS
 - https://medium.com/@bastian.ohm/configuring-your-synology-nas-as-nfs-storage-for-kubernetes-cluster-5e668169e5a2
+
+## Namespaces
+
+- https://medium.com/@AlexanderObregon/understanding-and-using-kubernetes-annotations-and-labels-26872481ec5c
+- https://yuminlee2.medium.com/kubernetes-service-accounts-56728d7a42dd
