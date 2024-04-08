@@ -16,9 +16,13 @@
 ## ha
 
 #### etcd
-
 - https://docs.k3s.io/datastore/ha-embedded
 
 #### external db
-
 - https://docs.k3s.io/datastore/ha
+
+## server
+- https://docs.k3s.io/cli/server
+
+## agent
+- https://docs.k3s.io/cli/agent

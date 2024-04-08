@@ -1,0 +1,1 @@
+- https://docs.photoprism.app/getting-started/config-options

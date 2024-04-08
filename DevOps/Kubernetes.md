@@ -38,8 +38,20 @@
 
 ###### NFS
 - https://medium.com/@bastian.ohm/configuring-your-synology-nas-as-nfs-storage-for-kubernetes-cluster-5e668169e5a2
+- https://medium.com/geekculture/k8s-storage-persistent-volume-demo-with-nfs-ff0b57d27ffc
 
 ## Namespaces
 
 - https://medium.com/@AlexanderObregon/understanding-and-using-kubernetes-annotations-and-labels-26872481ec5c
 - https://yuminlee2.medium.com/kubernetes-service-accounts-56728d7a42dd
+
+## Resources
+
+- https://atlassian.github.io/data-center-helm-charts/userguide/resource_management/REQUESTS_AND_LIMITS/
+
+## Coredns
+- https://medium.com/@rishasi/custom-dns-configuration-with-coredns-aks-kubernetes-599ecfb46b94
+
+## SSL ingress
+- https://kwonghung-yip.medium.com/open-my-home-kubernetes-cluster-to-internet-and-secure-it-with-lets-encrypt-tls-certificate-f42b50fa1ef5
+- https://levelup.gitconnected.com/easy-steps-to-install-k3s-with-ssl-certificate-by-traefik-cert-manager-and-lets-encrypt-d74947fe7a8
