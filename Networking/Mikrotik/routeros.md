@@ -11,5 +11,7 @@
 - https://www.youtube.com/watch?v=DesGuLTjGIc
 
 # dns
-
 - https://www.youtube.com/watch?v=zII8ITJ1mkY
+
+# LAN
+- https://www.youtube.com/watch?v=1I5FywY6opQ
