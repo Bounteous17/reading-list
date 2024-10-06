@@ -15,3 +15,6 @@
 
 # LAN
 - https://www.youtube.com/watch?v=1I5FywY6opQ
+
+## Hairpin NAT
+    - https://forum.mikrotik.com/viewtopic.php?t=132736
